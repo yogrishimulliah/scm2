@@ -29,5 +29,10 @@ namespace BatteryMonitor
         {
             Application.Exit()
         }
+
+        private void RefreshBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
